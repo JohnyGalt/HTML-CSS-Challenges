@@ -104,8 +104,9 @@ p {
   border-radius: 50%;
   display: inline-block;
   position: fixed;
-  bottom: 20px;
+  top: 20px;
   right: 20px;
+  transition: background-color 0.3s ease;
 
   display: flex;
   justify-content: center;
