@@ -240,3 +240,20 @@ p {
 .programs .card:last-child {
   margin-right: 0;
 }
+
+.elephants {
+  background-color: #e0cfa6;
+  color: #3a2c1e;
+  padding: 5%;
+  text-align: center;
+}
+
+.elephants h2 {
+  color: #3a2c1e;
+  margin-bottom: 1em;
+}
+
+.elephants p {
+  max-width: 800px;
+  margin: 0 auto 1.5em auto;
+}
