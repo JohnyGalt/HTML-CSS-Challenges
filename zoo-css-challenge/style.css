@@ -216,6 +216,11 @@ p {
   background-color: #fffffc;
 }
 
+.membership p {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
 .membership h2 {
   color: #ff3f00;
 }
@@ -227,5 +232,10 @@ p {
 /*Programs*/
 
 .programs .card {
-  display: block;
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.programs .card:last-child {
+  margin-right: 0;
 }
