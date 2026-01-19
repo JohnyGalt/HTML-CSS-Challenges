@@ -175,6 +175,10 @@ p {
   margin-bottom: 10px;
 }
 
+.news h2 {
+  text-align: center;
+}
+
 /*Education*/
 
 .education {
